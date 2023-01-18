@@ -424,7 +424,7 @@ def cancel(update, _):  # выход из разговора
 
 if __name__ == '__main__':
     # Создаем Updater и передаем ему токен вашего бота.
-    updater = Updater('5861404019:AAHTNh0n24wPjCEwNdGnxCp5n6aa3dZWwgI')
+    updater = Updater('')
     # получаем диспетчера для регистрации обработчиков
     dispatcher = updater.dispatcher
 
